@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simon game</string>
+    <string name="instructions">1. Press the START button. Simon will give the first signal. Repeat the signal by pressing the same color lens.\n\n
+    2. Simon will duplicate the first signal and add one. Repeat these two signals by pressing the same color lenses, in order.\n\n
+    3. Simon will duplicate the fist two signals and add one.\n\n
+    4. Continue playing as long as you can repeat each sequence of signals correctly.\n\n
+    5. If you fail to repeat a sequence exactly, or if you take too much time to repeat a signal, you\'ve lost, and the sequence off signals ends.</string>
+</resources>
